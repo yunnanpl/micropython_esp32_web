@@ -1,5 +1,5 @@
-# micropython_esp32_web
-Working and stable esp32 micropython web server.<br/>
+# esp32_python_web
+As the name says, it is about simple, stable web server on esp32 using micropython. This is a base for most other projects.<br/>
 Unfortunately it required a lot of testing, to go from the basic examples to a stable working web server.<br/>
 Now it easily survives days, multiple request from multiple clients, etc.<br/>
 
