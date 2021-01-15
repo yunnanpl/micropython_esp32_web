@@ -25,8 +25,8 @@ Idea is:<br/>
 
 Created and tested on<br/>
 = micropython, esp32-idf4-20201114-unstable-v1.13-173-g61d1e4b01.bin<br/>
-= esp32-wroom-32 (from AZ-Delivery)
-= some leds and buttons
+= esp32-wroom-32 (from AZ-Delivery)<br/>
+= some leds and buttons<br/>
 = sensors
 
 Helpful projects<br/>
